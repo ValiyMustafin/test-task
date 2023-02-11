@@ -1,0 +1,17 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "external-sort": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "merge-files": "^0.1.2",
+    "merge-stream": "^2.0.0"
+  }
+}
